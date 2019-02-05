@@ -8,7 +8,7 @@
 - [CH4 - Classes and Interfaces](./ch4/)
 - [CH5 - Generics](./ch5/)
 - [CH6 - Enums and Annotations](./ch6/)
-- [CH7 - Lambdas and Streams]((./ch7/))
+- [CH7 - Lambdas and Streams](./ch7/)
 - CH8 - Methods
 - CH9 - General Programming
 - CH10 - Exceptions
