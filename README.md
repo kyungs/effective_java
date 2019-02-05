@@ -2,15 +2,15 @@
 
 # effective_java
 
-## 목차 
-- [Ch2 - Creating and Destroying Objects](./ch2/)
-- [Ch3 - Methods Common to All Objects](./ch3/)
-- [Ch4 - Clasases and Interfaces](./ch4/)
-- [Ch5 - Generics](./ch5/)
-- Ch6 - Enums and Annotations
-- Ch7 - Lambdas and Streams
-- Ch8 - Methods
-- Ch9 - General Programming
-- Ch10 - Exceptions
-- Ch11 - Concurrency
-- Ch12 - Serialization
+## Contents
+- [CH2 - Creating and Destroying Objects](./ch2/)
+- [CH3 - Methods Common to All Objects](./ch3/)
+- [CH4 - Classes and Interfaces](./ch4/)
+- [CH5 - Generics](./ch5/)
+- [CH6 - Enums and Annotations](./ch6/)
+- [CH7 - Lambdas and Streams]((./ch7/))
+- CH8 - Methods
+- CH9 - General Programming
+- CH10 - Exceptions
+- CH11 - Concurrency
+- CH12 - Serialization
