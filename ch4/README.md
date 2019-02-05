@@ -6,7 +6,7 @@
 - Item 16. In public classes, use  accessor methods, not public fields
 - Item 17. Minimize Mutability
 - Item 18. Favor composition over inheritance
-- [Item 19. Design and document for inheritance or else prohibit it](./ch4/item19.md)
+- [Item 19. Design and document for inheritance or else prohibit it](./item19.md)
 - Item 20. Prefer interfaces to abstract classes
 - Item 21. Design interfaces for posterity
 - Item 22. Use interfaces only to define types
