@@ -3,7 +3,7 @@
 
 ## Contents 
 - Item 34. Use enums instead of int constants
-- Item 35. Use instance fields instead of ordinals
+- [Item 35. Use instance fields instead of ordinals](./item35.md)
 - Item 36. Use EnumSet instead of bit fields
 - Item 37. Use EnumMap instead of ordinal indexing
 - Item 38. Emulate extensible enums with interfaces
