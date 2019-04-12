@@ -9,7 +9,7 @@
 - [CH5 - Generics](./ch5/)
 - [CH6 - Enums and Annotations](./ch6/)
 - [CH7 - Lambdas and Streams](./ch7/)
-- CH8 - Methods
+- [CH8 - Methods](./ch8/)
 - CH9 - General Programming
 - CH10 - Exceptions
 - CH11 - Concurrency
